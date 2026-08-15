@@ -7,7 +7,7 @@ export default {
     quote: "Request a Quote",
   },
   hero: {
-    tagline: "Excellence from the sea, delivered to the world",
+    tagline: "MA DREAM – Turning the ocean’s bounty into business success",
     sub: "Seafood Export & Trading — Dakhla, Morocco",
     cta: "Explore our products",
     cta2: "Request a Quote",

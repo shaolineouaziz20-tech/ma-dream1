@@ -7,7 +7,7 @@ export default {
     quote: "Solicitar Oferta",
   },
   hero: {
-    tagline: "La excelencia del mar, entregada al mundo",
+    tagline: "MA DREAM – Transformando las riquezas del océano en éxito empresarial.",
     sub: "Exportación y Comercio de Productos del Mar — Dakhla, Marruecos",
     cta: "Ver nuestros productos",
     cta2: "Solicitar Oferta",
