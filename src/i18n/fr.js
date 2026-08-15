@@ -7,7 +7,7 @@ export default {
     quote: "Demande d'offre",
   },
   hero: {
-    tagline: "L'excellence de la mer, livrée au monde",
+    tagline: "MA DREAM – Turning the ocean’s bounty into business success",
     sub: "Export & Négoce de produits de la mer — Dakhla, Maroc",
     cta: "Découvrir nos produits",
     cta2: "Demande d'offre",
